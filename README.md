@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshaya!
+- 👋 Hi, I’m @AkshayaGolla!
 - 👀 I’m interested in Python Programming, AI and Data Science
 - 🌱 I’m currently learning Data Science basics and working on getting the IBM Data Science Professional Certification.
 - 💞️ I’m looking to collaborate on any interesting research papers or Hackathons. Also seeking internships or entry-level job opportunities that can help me improve myself.

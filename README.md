@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayaGolla!
 - 👀 I’m interested in Python Programming, Data Science and AI/ML .
-- 🌱 I’m currently learning Data Science basics and working on getting the IBM Data Science Professional Certification.
-- 💞️ I’m looking to collaborate on any interesting research papers or Hackathons. Also seeking an internship or a job opportunity in the fields mentioned above.
+- 🌱 I’m currently working on getting the IBM Data Science Professional Certification, alongside few interesting projects.
+- 💞️ I’m looking to collaborate on any interesting research papers or Hackathons. Also, seeking an internship or a job opportunity in the fields mentioned above.
 - 📫 How to reach me: akshayagoud.g@gmail.com / www.linkedin.com/in/akshaya-goud-golla-944b36197
 
 
